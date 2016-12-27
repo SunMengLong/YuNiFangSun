@@ -12,5 +12,9 @@ public class Text extends Activity{
     public void Main(){
         Toast.makeText(Text.this, "....", Toast.LENGTH_SHORT).show();
         //今天是徐嘉健的忌日！
+        //今天是徐嘉健的忌日！
+        //今天是徐嘉健的忌日！
+        //今天是徐嘉健的忌日！
+        //今天是徐嘉健的忌日！
     }
 }
